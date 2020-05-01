@@ -12,7 +12,7 @@
 
 **3. Scikit-Learn**
 
-**4. Numpy [+mkl for Windows]**
+**4. Numpy **
 
 **5. Pandas**
 
